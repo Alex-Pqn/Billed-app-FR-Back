@@ -24,7 +24,7 @@ npm install
 
 ### Compiles for development
 Runs the API in the development mode. \
-The API is available on local port `5678`, so `http://localhost:5678`
+The API is available on local port `5678`, so [http://localhost:5678/](http://localhost:5678/)
 ```
 npm run run:dev
 ```
